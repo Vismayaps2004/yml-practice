@@ -1,3 +1,3 @@
-#!bin/bash
+#!/bin/sh
 
 cp hooks/* .git/hooks

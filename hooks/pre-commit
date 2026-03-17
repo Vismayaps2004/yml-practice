@@ -1,3 +1,4 @@
-#!bin/bash
+#!/bin/sh
 
-deno test
+set -e
+deno lint
